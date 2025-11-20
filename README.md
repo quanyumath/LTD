@@ -15,7 +15,7 @@ journal = {SIAM Journal on Imaging Sciences},
 volume = {},
 number = {},
 pages = {},
-year = {2025},
+year = {2026},
 doi = {},
 author = {Quan Yu, Yu-Hong Dai and Minru Bai}
 }
