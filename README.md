@@ -12,11 +12,11 @@ If these codes and dataset are helpful for you, please cite this paper:
 @article{YB24,
 title = {Spectral-Spatial Extraction through Layered Tensor Decomposition for Hyperspectral Anomaly Detection},
 journal = {SIAM Journal on Imaging Sciences},
-volume = {},
-number = {},
-pages = {},
+volume = {19},
+number = {2},
+pages = {807-838},
 year = {2026},
-doi = {},
+doi = {https://doi.org/10.1137/25M1755679},
 author = {Quan Yu, Yu-Hong Dai and Minru Bai}
 }
 ```
